@@ -17,7 +17,7 @@ resume-external: true
 resume-url: https://google.com/?q=my+resume
 
 #url: https://koppl.in/indigo
-url: http://mmogib.github.io/faculty_websote2
+url: https://mmogib.github.io/faculty_website2
 
 permalink: /:title/
 
